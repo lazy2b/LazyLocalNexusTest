@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="localnexuslib-1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.lazy2b/localnexuslib/1.0.0-SNAPSHOT/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.lazy2b/localnexuslib/1.0.0-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lazy2b/localnexuslib/1.0.0-SNAPSHOT/b6f2e32c3734b713ad10f4075c17a0705d48b569/localnexuslib-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
